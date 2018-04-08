@@ -9,8 +9,8 @@
 
 ## Formatos
 
-Actualmente el archivo solo contiene sentencias SQL. En caso de necesitar en otro formato o más información, favor de abrir un issue.
+Actualmente el archivo solo contiene sentencias SQL. En caso de necesitar otro formato o más datos, favor abrir un issue.
 
 ## Licencia
 
-Este proyecto está liberado bajo la Licencia [MIT](http://opensource.org/licenses/MIT). Veáse el archivo [LICENSE](LICENSE.md) para más información.
+Este proyecto está liberado bajo la Licencia [MIT](http://opensource.org/licenses/MIT). Ver [LICENSE](LICENSE.md) para más info.
